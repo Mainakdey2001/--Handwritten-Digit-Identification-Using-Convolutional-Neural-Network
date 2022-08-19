@@ -1,2 +1,2 @@
 # DIGIT-DETECTION-USING-PYTHON-
-Python based project
+Python base project
